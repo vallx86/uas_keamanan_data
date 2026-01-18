@@ -1,7 +1,7 @@
-Nama : Rizky Rivaldy 
-Nim : C2C023067
-Kelas : B
-Dosen Pengampu : Dr. Dhendra Marutho, S.Kom., M.Kom
+Nama : Rizky Rivaldy.
+Nim : C2C023067.
+Kelas : B.
+Dosen Pengampu : Dr. Dhendra Marutho, S.Kom., M.Kom.
 
 # Laporan UAS Keamanan Data & Informasi
 ---
@@ -76,5 +76,6 @@ Berikut adalah analisis risiko pada aplikasi sebelum dilakukan perbaikan (Mode V
 ---
 
 ##  Link GitHub
-Kode sumber lengkap proyek ini dapat diakses di:
+Kode sumber lengkap proyek ini dapat diakses di: https://github.com/vallx86/uas_keamanan_data.git
+
 
